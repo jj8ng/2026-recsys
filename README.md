@@ -15,7 +15,7 @@ Given a user's movie rating history, recommend unseen movies they're likely to e
   2. `rankNRetrieve_PopNRand.py` — popularity-ranked and random baselines, used as a control.
 - **Evaluation:** `evaluator.py` scores each strategy's recommendations against each user's held-out actual ratings, with results written to `result/`.
 
-## Result
+## Demo
 
 <!-- TODO (Shanga): fill in actual numbers from result/, e.g. -->
 <!-- - Precision@K / Recall@K for TF-IDF vs. popularity baseline: -->
